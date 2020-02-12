@@ -7,4 +7,4 @@ clone it, then:
 
 and run test:
 
-`./node_modules/.bin/codeceptjs def --config codecept.conf.js`
+`./node_modules/.bin/codeceptjs run testme_test.js`
